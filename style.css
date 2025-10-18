@@ -614,14 +614,14 @@ html {
     display: flex;
     flex-direction: column; /* Xếp số và chữ theo chiều dọc */
     align-items: center;
-    padding-right: 20px;
+    padding-right: 15px;
 }
 
 .month-group {
     display: flex;
     flex-direction: column; /* Xếp chữ và số theo chiều dọc */
     align-items: center;
-    padding-left: 20px;
+    padding-left: 15px;
 }
 
 /* Kích thước số và chữ */
